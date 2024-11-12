@@ -1,3 +1,5 @@
+USE tienda;
+
 -- 1. List the names of all the products that are in the product table.
 SELECT nombre FROM product;
 
