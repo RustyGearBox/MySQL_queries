@@ -1,3 +1,4 @@
+USE universidad;
 -- 1. 
 SELECT apellido1, apellido2, nombre 
 FROM persona 
